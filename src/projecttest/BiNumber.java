@@ -14,6 +14,9 @@ public void setNumber1(int number1) {
 public int getNumber2() {
 	return number2;
 }
+public int getNumber3() {
+	return number2;
+}
 public void setNumber2(int number2) {
 	this.number2=number2;
 }
